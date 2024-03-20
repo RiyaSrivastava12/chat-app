@@ -1,4 +1,4 @@
-# MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
+# MERN Stack Project: Real Time Chat App | JWT, Socket.io
 
 (![alt text](image.png))
 Live Link - https://chat-app-prod-qpnv.onrender.com/
